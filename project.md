@@ -8,6 +8,10 @@
 
 ---
 
+![CoverImg](https://www.epicflow.com/wp-content/uploads/2016/07/project_management_minimalism_why_you_need_to_declutter_your_tech_environment.png)
+
+---
+
 ### **_Description_**
 
 #### A brief description of the project, what it's about, when and what you made it for, etc.
